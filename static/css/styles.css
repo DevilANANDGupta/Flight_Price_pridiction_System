@@ -1,0 +1,19 @@
+body {
+    background-image:url("flight.jpg");
+    text-align: center;
+}
+
+.navbar {
+    background-color: crimson;
+}
+
+a {
+    color: #3700fc;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+.h6{
+    background-color: aqua;
+}
